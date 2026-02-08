@@ -29,8 +29,17 @@ Data Analyst | Machine Learning Enthusiast | Power BI Developer
 
 ## 🛠 Tech Stack
 
+### Languages & Analytics
+![Skills](https://skillicons.dev/icons?i=python,mysql)
 
-![Skills](https://skillicons.dev/icons?i=Python,Jupyter,Pandas,NumPy,Matplotlib,Seaborn,Power BI,Git)
+### Data Science
+![Skills](https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow)
+
+### Visualization & BI
+![Skills](https://skillicons.dev/icons?i=powerbi)
+
+### Tools
+![Skills](https://skillicons.dev/icons?i=git,github,vscode)
 
 ---
 
