@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   
   **Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer | GenAI**
 </p>
