@@ -1,11 +1,3 @@
-<p align="center">
- 
-   **Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer | GenAI**
-</p>
-<p align="center">
-<img src="https://raw.githubusercontent.com/UPpippal/UPpippal/main/dashboard.png.png" width="900">
-</p>
-
 <h1 align="center">
 Hi 👋, I'm Upendra Pippal
 </h1>
@@ -13,6 +5,10 @@ Hi 👋, I'm Upendra Pippal
 <p align="center">
 Data Analyst | Machine Learning Enthusiast | Power BI Developer
 </p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/UPpippal/UPpippal/main/dashboard.png.png" width="900">
+</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+SQL+%7C+Power+BI;Machine+Learning+Projects;Data+Driven+Decision+Making;Always+Learning+New+Things&center=true&width=500&height=45">
