@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/UPpippal/UPpippal/main/dashboard.png.png" width="900">
+</p>
+
 <h1 align="center">
 Hi 👋, I'm Upendra Pippal
 </h1>
