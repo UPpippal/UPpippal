@@ -1,4 +1,7 @@
 <p align="center">
+Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer | GenAI
+</p>
+<p align="center">
 <img src="https://raw.githubusercontent.com/UPpippal/UPpippal/main/dashboard.png.png" width="900">
 </p>
 
