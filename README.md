@@ -1,5 +1,5 @@
 <p align="center">
-Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer | GenAI
+**Aspiring Data Scientist | Machine Learning Enthusiast | Python Developer | GenAI**
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/UPpippal/UPpippal/main/dashboard.png.png" width="900">
@@ -20,27 +20,17 @@ Data Analyst | Machine Learning Enthusiast | Power BI Developer
 ---
 
 ## 🧠 About Me
-
-- 📊 Data enthusiast passionate about turning data into insights  
-- 🤖 Exploring Machine Learning & Analytics  
-- 📈 Experienced with dashboards & predictive modeling  
-- 🚀 Focused on solving real-world business problems with data  
-
+-  🎓 Mechanical Engineer turned **Data Scientist**
+- 📊🤖 Exploring **Machine Learning, NLP, Data Analysis, and Business Intelligence**
+-  🔍 Skilled in **Web Scraping, Clustering, Fraud Detection, and ML System Deployment**
+-  ⚙️ Hands-on with **Python, SQL, Power BI, TensorFlow, Docker, Spark**
+-  🚀 Passionate about building **end-to-end data-driven solutions**
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Analytics
-![Skills](https://skillicons.dev/icons?i=python,mysql)
 
-### Data Science
-![Skills](https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow)
-
-### Visualization & BI
-![Skills](https://skillicons.dev/icons?i=powerbi)
-
-### Tools
-![Skills](https://skillicons.dev/icons?i=git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=Python,Jupyter,Pandas,NumPy,Matplotlib,Seaborn,Power BI,Git)
 
 ---
 
