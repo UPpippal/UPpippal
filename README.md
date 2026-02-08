@@ -1,10 +1,10 @@
 <h1 align="center">
-**Hi 👋, I'm Upendra Pippal**
+Hi 👋, I'm Upendra Pippal
 </h1>
 
 <p align="center">
-**Data Analyst | Machine Learning Enthusiast | Power BI Developer**
-</p>
+Data Analyst | Machine Learning Enthusiast | Power BI Developer
+</h1>
 <p align="center">
 <img src="https://raw.githubusercontent.com/UPpippal/UPpippal/main/dashboard.png.png" width="900">
 </p>
